@@ -1,0 +1,42 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    font-family: sans-serif;
+}
+
+form {
+    width: 600px;
+    margin: auto;
+        
+}
+
+input, textarea {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 11pt;    
+    border-radius: 6px;
+}
+
+input:hover, textarea:hover {
+    background-color: #d6d1d1;
+    
+}
+
+legend {
+    color: black;
+    font-weight: bold;
+    font-size: 11pt;
+    font-family: sans-serif;
+    
+}
+
+fieldset {
+    border-color: rgb(25, 25, 26);
+    border-radius: 5px;
+}
+
+#enviar, #limpar{
+    background-color: rgb(28, 26, 29);
+    color: white;
+}
+
